@@ -8,7 +8,7 @@ Material Manager Optimizer is a Unity Editor extension that helps developers ide
 
 
 
-<img src="file:///H:/Projects3/UNITY_TOOLS/MATERIAL_MANAGER_OPTIMIZER/MaterialManagerOptimizer/Imgs/UI.png" title="" alt="UI" data-align="inline"> 
+![UI](imgs/UI.png)
 
 ## Features
 
