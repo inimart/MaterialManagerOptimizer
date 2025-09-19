@@ -1,0 +1,25 @@
+{
+  "name": "com.inimart.materialmanageroptimizer",
+  "version": "1.0.0",
+  "displayName": "Material Manager Optimizer",
+  "description": "A Unity Editor tool for analyzing and optimizing materials in your scene. It helps identify batching bottlenecks, create material variants, manage shader keywords, and maximize the efficiency of the Unity SRP Batcher to reduce draw calls and improve runtime performance.",
+  "unity": "2020.3",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "material",
+    "optimization",
+    "batching",
+    "performance",
+    "srp",
+    "editor"
+  ],
+  "author": {
+    "name": "Inimart",
+    "email": "",
+    "url": ""
+  },
+  "type": "tool",
+  "samples": []
+}
