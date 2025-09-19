@@ -6,6 +6,10 @@ A powerful Unity Editor tool for analyzing and optimizing materials to maximize 
 
 Material Manager Optimizer is a Unity Editor extension that helps developers identify and resolve material batching bottlenecks in their projects. It provides a comprehensive view of all materials in your scene, facilitates the creation of material variants, and helps you leverage Unity's SRP Batcher to significantly reduce draw calls.
 
+
+
+![UI](H:\Projects3\UNITY_TOOLS\MATERIAL_MANAGER_OPTIMIZER\MaterialManagerOptimizer\Imgs\UI.png) 
+
 ## Features
 
 - **Material Analysis**: Comprehensive overview of all materials and their usage in the scene
